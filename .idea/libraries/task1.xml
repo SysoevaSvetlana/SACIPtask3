@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="task1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/task1/jfreechart-1.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/task1/jfreechart-1.0.19-demo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="jar://$PROJECT_DIR$/task1/jfreechart-1.5.4.jar!/" />
+    </excluded>
+  </library>
+</component>
